@@ -1,5 +1,5 @@
 FROM rethinkdb:latest
-MAINTAINER scottftvw
+MAINTAINER ktersius
 
 RUN apt update && apt install -y curl
 
